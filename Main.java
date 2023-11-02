@@ -9,11 +9,11 @@ public class Main {
         List<Persona> listaPersonas = new ArrayList<>();
 
         // Crear 5 objetos Persona con nombres y apellidos aleatorios
-        listaPersonas.add(new Persona("Juan", "Gómez"));
-        listaPersonas.add(new Persona("María", "Martínez"));
-        listaPersonas.add(new Persona("Pedro", "López"));
-        listaPersonas.add(new Persona("Ana", "Rodríguez"));
-        listaPersonas.add(new Persona("Luis", "Fernández"));
+        listaPersonas.add(new Persona("Nicolás", "Della Bernarda"));
+        listaPersonas.add(new Persona("Guidelines", "Leonidas"));
+        listaPersonas.add(new Persona("Ionizado", "Robinson"));
+        listaPersonas.add(new Persona("Jancho", "Pancho"));
+        listaPersonas.add(new Persona("Tego", "Calderón"));
 
         // Mostrar la lista original
         System.out.println("Lista original:");
